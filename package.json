@@ -1,0 +1,15 @@
+{
+  "name": "liquid-btn",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "AlexSND <snd.dnb@gmail.com>",
+  "license": "MIT",
+  "source": "./index.html",
+  "scripts": {
+    "start": "parcel serve",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
